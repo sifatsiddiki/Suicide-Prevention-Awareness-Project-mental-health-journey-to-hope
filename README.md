@@ -6,9 +6,8 @@ An awareness presentation and original poster design focusing on suicide prevent
 This repository hosts a psychological awareness project centered on **Suicide Prevention and Support**. The goal of this study is to unpack the psychological nuances behind emotional distress, de-stigmatize mental health discussions, and provide clear, actionable interventions for individuals and communities to foster protective safety nets.
 
 ###  Project Poster (Original Design)
-<p align="center">
-  <img src="poster.png" alt="Suicide Prevention Poster" width="450">
-</p>
+<img width="723" height="1024" alt="Psy101_Poster" src="https://github.com/user-attachments/assets/f061b660-dddb-4c36-b40a-75d0bd720036" />
+
 
 ---
 
